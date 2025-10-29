@@ -23,4 +23,10 @@ Steps in the app:
 - Some lines might have multi-word phrases (like 'nắm quyền', "nắm đằng chuôi", ....). 
 - Words are separated by spaces, hyphens, underscores, and commas.
 
-### The included word list is designed for 2-syllable Vietnamese Word Connect, compiled by the-nam1 (author). You can freely add more words to the list as needed.
+## Support / Donate
+If this tool helps you, you can support its development here
+![](https://i.postimg.cc/4N4MKZd3/qr.png)
+### The included word list is designed for 2-syllable Vietnamese Word Connect (compiled by the author, the-nam1)
+
+
+
